@@ -6,6 +6,7 @@ body {
     margin-right: 20px;
 	color: #FFFFFF;
 	background-color: #000000;
+    font-size: 40px;
 }
 
 h1
@@ -13,7 +14,7 @@ h1
     font-size:42px;
     text-align: center;
     padding: 15px;
-    color:  #C4C4C4;
+    color:  #FFFFFF;
 }
 
 h2
@@ -28,7 +29,7 @@ p
     font-size:24px;
     padding-top: 10px;
     padding-left: 10px;
-    color:  #707070;
+    color:  #FFFFFF;
 }
 
 img 
@@ -72,6 +73,14 @@ div
     border-top: 2px;
 }
 
+.blue p{
+    color:#C4C4C4
+}
+
+.blue h2{
+    color:#C4C4C4
+}
+
 .yellow 
 {
     background-color: #FFFF00;
@@ -79,6 +88,11 @@ div
     margin-left: 50px;
     border-left: 5px;
     border-bottom: 2px;
+}
+
+.yellow p
+{
+    color: #707070;
 }
 
 .green 
